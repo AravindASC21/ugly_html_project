@@ -1,0 +1,26 @@
+body
+{
+    background: black;
+    color: white;
+    font-family: Courier;
+}
+h1
+{
+    background: #3c5aa6;
+    text-align: center;
+    color: #ffcb05;
+}
+
+#starters_image_div
+{
+    display: flex;
+    justify-content: center;
+}
+
+.each_pokemon_container
+{
+    
+    display: flex;
+    justify-content: center;
+    height: 200px;
+}
