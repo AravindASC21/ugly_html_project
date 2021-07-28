@@ -19,8 +19,40 @@ h1
 
 .each_pokemon_container
 {
-    
+    margin-top: 100px;
     display: flex;
     justify-content: center;
     height: 200px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.pokemon_names
+{
+    font-size: 30px;
+}
+
+#bulbasaur_container
+{
+    background: #73a263;
+    border-radius: 10px;
+    padding: 10px;
+}
+#charmander_container
+{
+    background: #F4B185;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#squirtle_container
+{
+    background: #A2D7D5;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+
+footer
+{
+    margin-top: 100px;
 }
